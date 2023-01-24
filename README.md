@@ -1,14 +1,14 @@
-# Metodo-de-Newton-Raphson
-  Implementado em Python, aplicado na área de Cálculo Numérico
+# Newton-Raphson-Method
+   Implemented in Python, applied in the Numeric Calculus area
 
 # INFO
-Gabriel Goncalves Sa ; 
-gabrielgoncalves55@gmail.com ;
-61993776707 ;
-Quarto Semestre de Ciência da Computação ;
+Gabriel Gonçalves Sa ;
+gabrielgoncalves55@gmail.com;
++55(61)993776707;
+5th Semester of Computer Science;
 
-# Descrição:
-Algoritmo que implementa metodo de Newton-Raphson, mostra o erro relativo a cada iteração ,valor da função e da aproximacao da raiz a cada iteracao, além de plotar o grafico de aproximacao do erro em relacao a aproximacao desejada.
+# Description:
+Algorithm that implements the Newton-Raphson method, shows the error relative to each iteration, value of the function and the approximation of the root at each iteration, in addition to plotting the error approximation graph in relation to the desired approximation.
  
-No método de Newton-Raphson utiliza-se uma aproximação inicial, calcula-se a equação da reta tangente ao gráfico  da função por meio da derivada, 
-de forma que as iterações se aproximam da raiz com : X(k+1) = X(k) - f(x(k)) / f'(x(k))) 
+In the Newton-Raphson method an initial approximation is used, the equation of the tangent line to the graph of the function is calculated by means of the derivative,
+so that the iterations approach the root with : X(k+1) = X(k) - f(x(k)) / f'(x(k)))
