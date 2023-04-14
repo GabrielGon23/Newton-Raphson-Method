@@ -15,16 +15,16 @@ Degree: Bachelor, 5th Semester of Computer Science;
 # USE (UTILIDADE)
 
 **(English)**
-     -One of the main applications of the Newton-Raphson algorithm is to find roots of functions, very useful in several areas, such as calculating taxes, financial analysis, mathematical modeling;
-    -Find the minimum or maximum of a function, for engineering design, financial planning, and data analysis;
-    -Analyze the stability of dynamic systems, such as those found in electrical, mechanical and civil engineering;
-    -Resolving differential equations: It can be used to solve differential equations, which are common in various areas such as physics, engineering, computer science.
+    One of the main applications of the Newton-Raphson algorithm is to find roots of functions, very useful in several areas, such as calculating taxes, financial analysis, mathematical modeling;
+    Find the minimum or maximum of a function, for engineering design, financial planning, and data analysis;
+    Analyze the stability of dynamic systems, such as those found in electrical, mechanical and civil engineering;
+    Resolving differential equations: It can be used to solve differential equations, which are common in various areas such as physics, engineering, computer science.
     
 **(Português)**
-   -Uma das principais aplicações do algoritmo de Newton-Raphson é encontrar raízes de funções, muito útil em várias áreas, como em cálculo de impostos, análise financeira, modelagem matemática;
-   -Encontrar o mínimo ou o máximo de uma função, para projetos de engenharia, planejamento financeiro, e análise de dados;
-   -Analisar a estabilidade de sistemas dinâmicos, como os encontrados em engenharia elétrica, mecânica e civil;
-   -Resolução de equações diferenciais: Pode ser usado para resolver equações diferenciais, que são comuns em várias áreas, como física, engenharia, ciência da computação.
+   Uma das principais aplicações do algoritmo de Newton-Raphson é encontrar raízes de funções, muito útil em várias áreas, como em cálculo de impostos, análise financeira, modelagem matemática;
+   Encontrar o mínimo ou o máximo de uma função, para projetos de engenharia, planejamento financeiro, e análise de dados;
+   Analisar a estabilidade de sistemas dinâmicos, como os encontrados em engenharia elétrica, mecânica e civil;
+   Resolução de equações diferenciais: Pode ser usado para resolver equações diferenciais, que são comuns em várias áreas, como física, engenharia, ciência da computação.
 
 
 # Description (Descrição)
