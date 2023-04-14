@@ -1,4 +1,4 @@
-# Newton-Raphson-Method
+# Newton-Raphson-Method (Método de Newton-Raphson) 
 
 **(English)**
    Implemented in Python, applied in the Numeric Calculus area
